@@ -2,7 +2,7 @@
 
 ### TL;DR
 
-直接下载我重新打包好的文件替换 (记得先备份原文件)
+直接下载我重新打包好的文件替换 [app.asar](https://github.com/yunyu950908/tools/releases/tag/nosqlbooster%2Fv0.0.1-alpha) (记得先备份原文件)
 
 ### 手动修改
 
